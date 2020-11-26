@@ -9,7 +9,7 @@ I've built:
 - **5** 🌐 Websites
 - **6** 🤖 Discord bots
 - **3** 🕹️ Games
-- **1** 📱 Android app
+- **1**  📱 Android app
 
 With **many** more projects on the horizon!
 
