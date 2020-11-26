@@ -1,4 +1,4 @@
-![github showcase](https://imgur.com/a/Jg1yxJn)
+![github showcase](https://i.imgur.com/ZfsfLPM.png)
 
 **Avid developer** and **design enthusiast**
 
