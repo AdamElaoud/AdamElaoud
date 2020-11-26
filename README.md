@@ -2,7 +2,7 @@
 
 **Avid developer** and **design enthusiast**
 
-Check out my [website](https://adamelaoud.com) for my portfolio!
+Check out my [website](https://adamelaoud.com) for my portfolio!  
 *website re-design underway*
 
 - I love both design and implementation
