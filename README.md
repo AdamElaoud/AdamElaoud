@@ -1,4 +1,4 @@
-![github showcase](https://i.imgur.com/dx9ERZg.png)
+![github showcase](https://imgur.com/a/Jg1yxJn)
 
 **Avid developer** and **design enthusiast**
 
