@@ -1,4 +1,4 @@
-![github showcase](https://i.imgur.com/CXhM3qw.png)
+![github showcase](https://i.imgur.com/ruW8rlm.png)
 
 **Check out my [website](https://adamelaoud.com) for my portfolio**!  
 *website overhaul underway*
