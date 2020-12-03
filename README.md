@@ -5,7 +5,7 @@
 
 From all the projects I've built, I've gained experience working with:
 - writing large overnight testing scripts
-- building and utilizing databases
+- building and utilizing SQL and MongoDB databases
 - using user usage data to design improvements
 - managing production and development lines
 - and more!
