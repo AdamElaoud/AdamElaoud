@@ -4,9 +4,10 @@
 *website overhaul underway*
 
 From all the projects I've built, I've gained experience working with:
-- writing large overnight testing scripts
+- RESTful APIs
 - building and utilizing SQL and MongoDB databases
-- using user usage data to design improvements
+- client / server database connections
+- analyzing user usage data to develop new features
 - managing production and development lines
 - and more!
 
